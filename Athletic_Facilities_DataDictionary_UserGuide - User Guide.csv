@@ -1,0 +1,19 @@
+Dataset Name,Athletic Facilities
+"What’s In This Dataset? 
+ 
+ Summary of what phenomenon is described by data. Includes:
+ ● How to interpret one line of data
+ ● How data is collected
+ ● How often is data updated? 
+ ● What cleaning or processing has occurred prior to publication (geocoding, anonymization, etc) 
+ ● Known limitations of dataset, including missing values
+ ● How has dataset changed over time? Has agency added or taken away fields or columns? Have expected values changed? 
+ ● What fields are required 
+ ● Related information including supporting datasets, links to Agency websites, etc.","This dataset contains facilities that were designed specifically with sports in mind. These facilities are not the only places within parks where sports can be played. This layer contains all of the facilities that can be permitted for athletic activity and facilities that are specifically designated for sports but are not available for permitting. 
+ 
+ This information is used by the Citywide Event Management System (CEMS) to book permits for Parks' athletic facilities. More information about athletic facility permits can be viewed at https://www.nycgovparks.org/permits/
+ 
+ This dataset uses the standard NYC projection of NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet. Lengths are in feet and areas in square feet."
+"Get Started With This Data:
+ Suggest 3 questions that can be asked with this data.",
+"Public data sets made available on this web portal are provided for informational purposes. The city of New York does not warranty the completeness, accuracy, content or fitness for any particular purpose or use of any public data set made available on the web portal, nor are any such warranties to be implied or inferred with respect to the public data sets furnished therein. The city is not liable for any deficiencies in the completeness, accuracy, content or fitness for any particular purpose or use of any public data set, or application utilizing such data set, provided by any third party.",
